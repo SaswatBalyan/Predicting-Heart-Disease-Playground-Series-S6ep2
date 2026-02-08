@@ -59,3 +59,4 @@ ehthumbs.db
 *.log
 .env
 .env.local
+*.pth
