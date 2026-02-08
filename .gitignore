@@ -59,4 +59,9 @@ ehthumbs.db
 *.log
 .env
 .env.local
+
+#Pytorch Model files
 *.pth
+
+#Data files
+*.csv
