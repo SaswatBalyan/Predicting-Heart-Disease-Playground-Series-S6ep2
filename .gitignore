@@ -59,6 +59,7 @@ ehthumbs.db
 *.log
 .env
 .env.local
+.catboost_info/
 
 #Pytorch Model files
 *.pth
