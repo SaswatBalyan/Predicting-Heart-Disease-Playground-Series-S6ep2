@@ -64,5 +64,5 @@ ehthumbs.db
 *.pth
 
 #Data files
-#.playground-series-s6ep2/
-#*.csv
+.playground-series-s6ep2/
+*.csv
