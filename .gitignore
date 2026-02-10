@@ -60,6 +60,7 @@ ehthumbs.db
 .env
 .env.local
 .catboost_info/
+heart-disease-ipynb.ipynb
 
 #Pytorch Model files
 *.pth
